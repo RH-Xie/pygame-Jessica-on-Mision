@@ -16,3 +16,5 @@ A simple 2d game made of pygame
 | Level editor                  | LevelEditor                                         | [russs123](https://github.com/russs123) | https://github.com/russs123/LevelEditor                   |
 | background textures           | V1P_L9.png                                          | erayzesen.itch.io/pixel-platformer      | erayzesen.itch.io/pixel-platformer                        |
 
+
+- This project is still uncertain to be continued for many reasons. If you like this game, please take a star so I know you want a better one.
